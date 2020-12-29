@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Sales M8"
+date:   2020-12-29 18:05:55 +0300
+image:  07.jpg
+tags:   [Sales]
+---
+### Week 1
+#### Courses
+* [Guns and School Safety ](https://www.coursera.org/learn/gun-violence)
+
+### Week 2 & 3
+#### Courses
+* [SRO Certification](https://www.schoolsafetyacademy.com/HomeLogin.aspx)
+
+### Week 4
+#### Courses
+* [School Safety 1](https://www.secretservice.gov/data/protection/ntac/USSS_NTAC_Enhancing_School_Safety_Guide_7.11.18.pdf)
+* [School Safety 2](https://www.secretservice.gov/data/protection/ntac/Protecting_Americas_Schools.pdf)
+* [School Safety 3](https://www2.ed.gov/admins/lead/safety/preventingattacksreport.pdf)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

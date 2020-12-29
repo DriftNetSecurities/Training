@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Sales M3"
+date:   2020-12-29 18:05:55 +0300
+image:  07.jpg
+tags:   [Sales]
+---
+### Week 1 and 2
+#### Courses
+* [Sales Strategy](https://www.coursera.org/learn/sales-strategy)
+
+### Week 3
+#### Courses
+* [Sales Toolkit](https://www.coursera.org/learn/toolkit-sales-process)
+
+### Week 4
+#### Courses
+* [Connecting with Prospects](https://www.coursera.org/learn/connecting-with-sales-prospects)
+* [Strategically Build and Engage your network on linkedin](https://www.coursera.org/projects/strategically-build-and-engage-your-network-on-linkedin)
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

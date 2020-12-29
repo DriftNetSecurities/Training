@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Sales M7"
+date:   2020-12-29 18:05:55 +0300
+image:  07.jpg
+tags:   [Sales]
+---
+### Week 1
+#### Courses
+* [Understanding Arguments](https://www.coursera.org/learn/understanding-arguments)
+
+### Week 2
+#### Courses
+* [Pricing Strategy](https://www.coursera.org/learn/uva-darden-bcg-pricing-strategy-customer-value)
+
+### Week 3 & 4
+#### Courses
+* [Sales Planning](https://www.coursera.org/learn/models-frameworks-support-sales-planning)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

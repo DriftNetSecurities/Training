@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Sales M5"
+date:   2020-12-29 18:05:55 +0300
+image:  07.jpg
+tags:   [Sales]
+---
+### Week 1 to 4
+#### Courses
+* [Business English: Marketing and Sales](https://www.coursera.org/learn/marketing-sales-english)
+* [Sales Pitch Closing](https://www.coursera.org/learn/lesson-business-english-skills-how-to-write-effective-openings-and-closings-to-emails)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
