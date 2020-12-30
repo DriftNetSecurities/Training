@@ -1,4 +1,4 @@
-DSN Training- Easy & Simple Theme
+DSN Training- Simple site
 ======
 DSN Training is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog.
 
