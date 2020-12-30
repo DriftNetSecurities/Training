@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Intelligence Analyst Pathway"
+title:  "Intelligence Analyst M6"
 date:   2020-12-29 18:05:55 +0300
 image:  11.jpg
 tags:   [Intelligence | Analyst]
 ---
 # Intelligence Analyst Pathway
-Intelligence Pathway is a rigorous program intent to educate candidates in the Intelligence field. It is heavy on writing and analyzing text.
+A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
 ### Month 1
 #### Week 1

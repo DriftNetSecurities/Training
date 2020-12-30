@@ -5,21 +5,30 @@ date:   2020-12-29 18:05:55 +0300
 image:  11.jpg
 tags:   [Intelligence | Officer]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Pathways in Intelligence Officer
+### Overview
+Intelligence Pathway is a rigorous program intent to educate candidates in the Intelligence field. It is heavy on writing and analyzing text.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Program Details
 
-Jekyll also offers powerful support for code snippets:
+#### Program Requirements and Recommendations
+* 3 months in Job
+* Managers endorsement to begin the pathway
+* 8 months Engineering Immersion Program
+* Writing sample
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Intelligence Pathways
+* Intelligence Analyst
+* Intelligence Officer
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Intelligence Showcase
+Candidates can work in a team or individually they must present there research of a school shooting tradeshow-style setting. The top Team/Individual will be decided by a panel of VIPs.
+
+#### Volunteer Support
+Intelligence Members are welcome to support in various ways: Just coming together for the showcase and/or Mentoring throughout the project development.
+
+For More information
+Please contact ....
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
