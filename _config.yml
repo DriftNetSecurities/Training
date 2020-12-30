@@ -3,8 +3,8 @@
 
 title: Training
 description: Simple Training site for personal growth of team members # this means to ignore newlines until "baseurl:"
-baseurl: "/DSNTraining" # the subpath of your site, e.g. /blog
-url: "https://driftnetsecurities.github.io/DSNTraining/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Training" # the subpath of your site, e.g. /blog
+url: "https://driftnetsecurities.github.io/Training/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
