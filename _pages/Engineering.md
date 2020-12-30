@@ -38,4 +38,4 @@ Candidates can work in a team or individually they must present their functional
 Engineers and Product Members are welcome to support in various ways: Just coming together for the showcase and/or Mentoring throughout the project development.
 
 For More information
-Please contact Pat - PatG@driftnet.net
+Please contact 	Brigitte Coles <brigittec@driftnet.net>

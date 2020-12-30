@@ -33,4 +33,4 @@ nonprofit institutions and other organizations.
 * Marketing Manager
 
 For More information
-Please contact ...
+Please contact 	Brigitte Coles <brigittec@driftnet.net>
