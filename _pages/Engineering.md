@@ -34,6 +34,7 @@ Engineering Pathway is a hard but rewarding pathway here at Drift Net Securities
 
 ### Engineer Showcase
 Candidates can work in a team or individually they must present their functional mobile apps, design, or other projects in a tradeshow-style setting. The top Team/Individual will be decided by a panel of VIPs
+
 #### Volunteer Support
 Engineers and Product Members are welcome to support in various ways: Just coming together for the showcase and/or Mentoring throughout the project development.
 

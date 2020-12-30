@@ -17,13 +17,13 @@ consumers.
 * Managers endorsement to begin the pathway
 * 8 months Marketing Immersion Program
 
-### Marketing Pathway
-* Marketing
+### Sales Pathway
+* Sales
 
 ### Some Career Pathways
 * Market Research Analyst
 * Public Relations Specialist
-* Marketing Manager
+* Sales Manager
 
 For More information
 Please contact 	Brigitte Coles <brigittec@driftnet.net>
