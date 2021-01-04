@@ -31,7 +31,7 @@ tags:   [Engineering | Science]
   - [Introduction to Probability and Data with R](https://www.coursera.org/learn/probability-intro?ranMID=40328&ranEAID=ZbA30aiKocg&ranSiteID=ZbA30aiKocg-2qodN7SHLmhXjgUfBL9ilQ&siteID=ZbA30aiKocg-2qodN7SHLmhXjgUfBL9ilQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ZbA30aiKocg)
   - [Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics?ranMID=40328&ranEAID=ZbA30aiKocg&ranSiteID=ZbA30aiKocg-ui1jeu6o4V.3ZXFSURJ8Eg&siteID=ZbA30aiKocg-ui1jeu6o4V.3ZXFSURJ8Eg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ZbA30aiKocg)
   - [Data Science: Statistics and Machine Learning Specialization](https://www.coursera.org/specializations/data-science-statistics-machine-learning?ranMID=40328&ranEAID=ZbA30aiKocg&ranSiteID=ZbA30aiKocg-qMTUbNSuVsGVRqlgjtWyrA&siteID=ZbA30aiKocg-qMTUbNSuVsGVRqlgjtWyrA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ZbA30aiKocg)
-  - [Statistics with R]( | Coursera Statistics with R 	)https://kanger.dev/run/statistics-with-r-specialization-coursera/)
+  - [Statistics with R](https://kanger.dev/run/statistics-with-r-specialization-coursera/)
   - [Statistics with Python](https://kanger.dev/run/statistics-with-python-specialization-coursera/)
 
 
