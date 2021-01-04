@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Science & Engineering Pathways"
+layout: page
+title:  "Science & Engineering Math for Success"
 date:   2020-12-29 18:05:55 +0300
 image:  19.jpg
 tags:   [Engineering | Science]
