@@ -3,7 +3,7 @@ layout: post
 title:  "Science & Engineering Pathways"
 date:   2020-12-29 18:05:55 +0300
 image:  19.jpg
-tags:   [Engineering | Science | Math]
+tags:   [Engineering | Science]
 ---
 ### Data Science Math Skills Required
   - [Game Theory](https://kanger.dev/run/game-theory-stanford/)
@@ -12,13 +12,13 @@ tags:   [Engineering | Science | Math]
   - [Data Science Math Skills](https://kanger.dev/run/data-science-math-skills-duke/)
   - [Linear Algebra for Data Science in R](https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r?tap_a=5644-dce66f&tap_s=675229-d67dcf&utm_medium=affiliate&utm_source=saqibjan4)
   - [Introduction to Mathematical Thinking](https://kanger.dev/run/introduction-to-mathematical-thinking-stanford/)
-  Introduction to Calculus	https://kanger.dev/run/introduction-to-calculus-university-of-sydney/
-  Introduction to Logic	https://kanger.dev/run/introduction-to-logic-stanford/
-  Matrix Algebra for Engineers	https://kanger.dev/run/matrix-algebra-for-engineers-hkust/
-  Calculus: Single Variable ( 5-Parts )	https://kanger.dev/run/calculus-single-variable-penn/
-  Matrix Methods	https://kanger.dev/run/matrix-methods-university-of-minnesota/
-  Differential Equations for Engineers	https://kanger.dev/run/differential-equations-for-engineers-hkust/
-  Game Theory II: Advanced Applications	https://click.linksynergy.com/deeplink?id=ZbA30aiKocg&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fgame-theory-2
+  - [Introduction to Calculus](https://kanger.dev/run/introduction-to-calculus-university-of-sydney/)
+  - [Introduction to Logic](https://kanger.dev/run/introduction-to-logic-stanford/)
+  - [Matrix Algebra for Engineers](https://kanger.dev/run/matrix-algebra-for-engineers-hkust/)
+  - [Calculus: Single Variable ( 5-Parts )](https://kanger.dev/run/calculus-single-variable-penn/)
+  - [Matrix Methods](https://kanger.dev/run/matrix-methods-university-of-minnesota/)
+  - [Differential Equations for Engineers](https://kanger.dev/run/differential-equations-for-engineers-hkust/)
+  - [Game Theory II: Advanced Applications](https://click.linksynergy.com/deeplink?id=ZbA30aiKocg&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fgame-theory-2)
 
 ####  ML & AI Math for Science
   - [Mathematics for Machine Learning: Linear Algebra](https://kanger.dev/run/mathematics-for-ml-linear-algebra-imperial/)
