@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intelligence Analyst M7"
-date:   2020-12-29 18:05:55 +0300
+date:   2021-01-01 18:05:55 +0300
 image:  11.jpg
 tags:   [Intelligence | Analyst]
 ---
