@@ -6,7 +6,7 @@ image:  11.jpg
 tags:   [Intelligence | Analyst]
 ---
 ### Week 1 to 4
-####Wargaming
+#### Wargaming
 * [1](https://www.rand.org/topics/wargaming.html)
 * [2](https://www.cna.org/cna_files/pdf/D0007042.A3.pdf)
 * [3](https://www.strategy-business.com/article/15052?gko=6098f)

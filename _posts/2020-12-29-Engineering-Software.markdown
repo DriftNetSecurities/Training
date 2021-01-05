@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: p
 title:  "Software Engineering Pathways"
 date:   2021-01-01 18:05:55 +0300
 image:  18.jpg

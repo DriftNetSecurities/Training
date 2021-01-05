@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postA
 title:  "Science & Engineering Math for Success"
 date:   2021-01-01 18:05:55 +0300
 image:  19.jpg
