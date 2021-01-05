@@ -1,6 +1,6 @@
 ---
 layout: postA
-title:  "Engineering Programs"
+title:  "Program Installation"
 date:   2021-01-01 18:05:55 +0300
 image:  19.jpg
 tags:   [Engineering]

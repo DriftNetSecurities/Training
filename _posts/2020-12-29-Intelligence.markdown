@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Intelligence Officer Pathway"
+title:  "Intelligence Pathway"
 date:   2020-12-29 18:05:55 +0300
 image:  11.jpg
-tags:   [Intelligence | Officer]
+tags:   [Intelligence]
 ---
-## Pathways in Intelligence Officer
+## Pathways in Intelligence
 ### Overview
 Intelligence Pathway is a rigorous program intent to educate candidates in the Intelligence field. It is heavy on writing and analyzing text.
 
