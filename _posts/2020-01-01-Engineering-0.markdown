@@ -10,9 +10,9 @@ tags:   [Engineering]
 ## Blender For Mac OS
 
 ## R Studio Mac OS
-[Binary](https://cran.r-project.org/bin/macosx/)
 1. Download [R-4.0.3.pkg](https://cran.r-project.org/bin/macosx/R-4.0.3.pkg)
 2. Download [R Studio Server](https://rstudio.com/products/rstudio/download-server/)
+If you need a [Binary](https://cran.r-project.org/bin/macosx/) file.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
