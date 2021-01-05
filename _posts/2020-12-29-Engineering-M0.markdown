@@ -1,9 +1,9 @@
 ---
 layout: postA
-title:  "Science & Engineering Math for Success"
+title:  "Math for Success"
 date:   2021-01-01 18:05:55 +0300
 image:  19.jpg
-tags:   [Engineering | Science]
+tags:   [Engineering]
 ---
 ### Data Science Math Skills Required
   - [Game Theory](https://kanger.dev/run/game-theory-stanford/)
