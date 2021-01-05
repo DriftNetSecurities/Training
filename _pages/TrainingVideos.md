@@ -2,7 +2,7 @@
 layout: page
 title: Training Video Library
 image: 06.jpg
-permalink: /start/
+permalink: /TrainingVideo/
 ---
 <iframe
     width="640"
