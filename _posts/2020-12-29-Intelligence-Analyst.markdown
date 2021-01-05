@@ -8,7 +8,8 @@ tags:   [Intelligence | Analyst]
 # Intelligence Analyst Pathway
 Intelligence Pathway is a rigorous program intent to educate candidates in the Intelligence field. It is heavy on writing and analyzing text.
 
-
+Carmen Medina: The Royal New Zealand Police College asked her to answer what qualities make a "good" intelligence analyst.
+[![IMAGE_ALT](https://img.youtube.com/vi/SQTWSomrynE/1.jpg)](https://www.youtube.com/watch?v=SQTWSomrynE)
 
 
 
