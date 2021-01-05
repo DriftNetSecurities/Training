@@ -15,18 +15,11 @@ tags:   [Engineering]
 
 ## Blender For Mac OS
 - Download [Link](https://www.blender.org/)
-- Quick Tutorials for Blender ["Get Started"](https://www.blender.org/support/tutorials/)
+- Quick Tutorials for Blender ["Get Started"](https://cloud.blender.org/training/)
 - Month 1 [Blender Fundamentals 2.8](https://youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
 - Blender YouTube Channel --> https://www.youtube.com/user/BlenderFoundation
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=ZbvTS1pmN0s"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-</iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/ZbvTS1pmN0s/0.jpg)](https://www.youtube.com/watch?v=ZbvTS1pmN0s)
 
 ## R Studio Mac OS
 1. Download [R-4.0.3.pkg](https://cran.r-project.org/bin/macosx/R-4.0.3.pkg)
