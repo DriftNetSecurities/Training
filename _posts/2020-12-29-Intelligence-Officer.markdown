@@ -27,8 +27,8 @@ Candidates can work in a team or individually they must present there research o
 #### Volunteer Support
 Intelligence Members are welcome to support in various ways: Just coming together for the showcase and/or Mentoring throughout the project development.
 
-For More information
-Please contact ....
+For More information:
+- Please contact [Brigitte Coles](brigittec@driftnet.net)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

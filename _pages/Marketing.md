@@ -32,5 +32,5 @@ nonprofit institutions and other organizations.
 * Public Relations Specialist
 * Marketing Manager
 
-For More information
-Please contact 	Brigitte Coles <brigittec@driftnet.net>
+For More information:
+- Please contact [Brigitte Coles](brigittec@driftnet.net)

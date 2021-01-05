@@ -5,114 +5,46 @@ date:   2020-12-29 18:05:55 +0300
 image:  11.jpg
 tags:   [Intelligence | Analyst]
 ---
-# Intelligence Analyst Pathway
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
-
-### Month 1
 #### Week 1
-* [Intelligence Analyst - M1W1 Video Playlist](https://www.youtube.com/watch?v=AW4ZOnd0Kyw&list=PLeDh38XMopDYea0U87mkjEgkoOyHoKzFP)
-* [Practical](https://www.classcentral.com/course/psychfirstaid-2900)
+##### GEOINT
+- [1](https://www.coursera.org/projects/analyze-city-data-r-tableau)
+- [2](https://www.youtube.com/watch?v=NObWabQJiRs)
+
+##### Projects
+* Conduct a GEOINT study on human trafficking routes
+
 #### Week 2
-* [Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
-* [Arguments](https://www.coursera.org/learn/understanding-arguments)
-* [Inductive Reasoning](https://www.coursera.org/learn/inductive-reasoning)
-* [Deductive Reasoning](https://www.coursera.org/learn/deductive-reasoning)
-* [Fallicies](https://www.coursera.org/learn/logical-fallacies)
+##### SIGINT
+- [1](https://www.cia.gov/news-information/featured-story-archive/2010-featured-story-archive/intelligence-signals-intelligence-1.html)
+- [2](https://www.rand.org/content/dam/rand/pubs/perspectives/PE200/PE273/RAND_PE273.pdf)
+- [3](https://fas.org/irp/program/collect/vpu-001.htm)
+- [4](https://www.cia.gov/news-information/featured-story-archive/2010-featured-story-archive/intelligence-signals-intelligence-1.html)
+
+##### Projects
+* Create a list of SIGINT used in the KW system and describe the ways that it can be analyzed and used
+
 #### Week 3
-* []()
-* []()
-* []()
+##### HUMIT
+-[1](https://www.cia.gov/news-information/featured-story-archive/2010-featured-story-archive/intelligence-human-intelligence.html)
+- [2](http://pirp.harvard.edu/pubs_pdf/brannon/brannon-i02-1.pdf)
+- [3](https://link.springer.com/chapter/10.1007%2F978-1-4614-9642-7_11)
+- [4](https://www.researchgate.net/publication/273490397_Criminal_versus_HUMINT_Interrogations_The_Importance_of_Psychological_Science_to_Improving_Interrogative_Practice)
 
+##### Projects
+* Create a list of SIGINT used in the KW system and describe the ways that it can be analyzed and used
 
-Month 4
-### Week 1
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
+#### Week 4
+##### OSINT
+- [1](https://www.recordedfuture.com/open-source-intelligence-definition/)
+- [2](https://www.csoonline.com/article/3445357/what-is-osint-top-open-source-intelligence-tools.html)
+- [3](https://www.cia.gov/news-information/featured-story-archive/2010-featured-story-archive/open-source-intelligence.html)
+- [4](https://www.sans.org/event/osint-summit-2021/course/open-source-intelligence-gathering)
+- [5](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools)
 
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+##### Data Scraping 	
 
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-### Week 2
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-### Week 3
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-### Week 4
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
+##### Projects
+* Scrape OSINT data and analyze
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

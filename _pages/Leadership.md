@@ -19,5 +19,5 @@ Leadership Development Program (LDP). Will provide a solid foundation of managem
 * Management
 
 
-For More information
-Please contact 	Brigitte Coles <brigittec@driftnet.net>
+For More information:
+- Please contact [Brigitte Coles](brigittec@driftnet.net)

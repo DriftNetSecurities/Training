@@ -33,8 +33,8 @@ nonprofit institutions and other organizations.
 * Public Relations Specialist
 * Marketing Manager
 
-For More information
-Please contact ...
+For More information:
+- Please contact [Brigitte Coles](brigittec@driftnet.net)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

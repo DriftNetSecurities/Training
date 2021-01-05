@@ -5,114 +5,37 @@ date:   2020-12-29 18:05:55 +0300
 image:  11.jpg
 tags:   [Intelligence | Analyst]
 ---
-# Intelligence Analyst Pathway
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
-
-### Month 1
-#### Week 1
-* [Intelligence Analyst - M1W1 Video Playlist](https://www.youtube.com/watch?v=AW4ZOnd0Kyw&list=PLeDh38XMopDYea0U87mkjEgkoOyHoKzFP)
-* [Practical](https://www.classcentral.com/course/psychfirstaid-2900)
-#### Week 2
-* [Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
-* [Arguments](https://www.coursera.org/learn/understanding-arguments)
-* [Inductive Reasoning](https://www.coursera.org/learn/inductive-reasoning)
-* [Deductive Reasoning](https://www.coursera.org/learn/deductive-reasoning)
-* [Fallicies](https://www.coursera.org/learn/logical-fallacies)
-#### Week 3
-* []()
-* []()
-* []()
-
-
-Month 4
 ### Week 1
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+Tactical
+* [1](https://fas.org/irp/doddir/army/miobc/shts3lbi.htm)
+* [2](https://www.scholastic.com/teachers/articles/teaching-content/strategy-and-tactics-military/)
+* [3](https://www.youtube.com/watch?v=thLG20dwAv4)
+* [4](https://www.researchgate.net/publication/334675767_Tactical_Variables_-_A_Tool_for_Mission_Analysis)
+* [5](https://fas.org/irp/doddir/army/fm34-2-1.pdf)
 
 #### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+Conduct a tactical assessment of the VTech Shooting
 
 ### Week 2
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+* [Community Response Teams](https://training.fema.gov/is/courseoverview.aspx?code=IS-317.a)
+* [NIMS](https://emilms.fema.gov/is_0700b/curriculum/1.html)
+* [GII platform](https://emilms.fema.gov/is_0063b/curriculum/1.html)
+* [Incident Command Center](https://emilms.fema.gov/is_0100c/curriculum/1.html)
+* [1](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c)
 
 ### Week 3
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+* [Operations Center](https://training.fema.gov/is/courseoverview.aspx?code=IS-2200)
+* [THIRA](https://training.fema.gov/is/courseoverview.aspx?code=IS-2001)
+* [Surveillance](https://training.fema.gov/is/courseoverview.aspx?code=IS-914)
+* [Active Shooter](https://training.fema.gov/is/courseoverview.aspx?code=IS-907)
+* [Multi-Hazard Emergency Planning for Schools](https://training.fema.gov/is/courseoverview.aspx?code=IS-362.a)
+* [Incident Action Plan](https://training.fema.gov/is/courseoverview.aspx?code=IS-201)
 
 ### Week 4
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
+* [1](https://training.fema.gov/is/courseoverview.aspx?code=IS-120.c)
+* [2](https://training.fema.gov/is/courseoverview.aspx?code=IS-139.a)
+* [3](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c)
+* [4](https://training.fema.gov/programs/emivttx.aspx)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

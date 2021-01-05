@@ -19,8 +19,8 @@ Leadership Development Program (LDP). Will provide a solid foundation of managem
 ### Some Career Pathways
 * Management
 
-For More information
-Please contact ...
+For More information:
+- Please contact [Brigitte Coles](brigittec@driftnet.net)
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

@@ -5,114 +5,25 @@ date:   2020-12-29 18:05:55 +0300
 image:  11.jpg
 tags:   [Intelligence | Analyst]
 ---
-# Intelligence Analyst Pathway
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
-
-### Month 1
 #### Week 1
-* [Intelligence Analyst - M1W1 Video Playlist](https://www.youtube.com/watch?v=AW4ZOnd0Kyw&list=PLeDh38XMopDYea0U87mkjEgkoOyHoKzFP)
-* [Practical](https://www.classcentral.com/course/psychfirstaid-2900)
+##### Intelligence Cycle
+- [1](https://en.wikipedia.org/wiki/Intelligence_cycle)
+- [2](https://www.cia.gov/kids-page/6-12th-grade/who-we-are-what-we-do/the-intelligence-cycle.html#analysis-and-production)
+
+##### Intelligence Briefings 	
+- [3](https://ahsawc.files.wordpress.com/2014/02/intelligence-analysis-reports.pdf)
+- [4](https://www.ncirc.gov/documents%5Cpublic%5CAnalysts_Style_Manual.pdf)
+- [5](https://www.intelligence.gov/publics-daily-brief/presidents-daily-brief)
+- [6](http://www.intelligence101.com/my-full-proof-process-to-writing-a-killer-intelligence-brief-and-tips-to-deliver-intelligence-assessments-better/)
+
+##### Projects
+* Write an intelligence briefing for the president based on the Cuban Missile Crisis
+
 #### Week 2
-* [Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
-* [Arguments](https://www.coursera.org/learn/understanding-arguments)
-* [Inductive Reasoning](https://www.coursera.org/learn/inductive-reasoning)
-* [Deductive Reasoning](https://www.coursera.org/learn/deductive-reasoning)
-* [Fallicies](https://www.coursera.org/learn/logical-fallacies)
-#### Week 3
-* []()
-* []()
-* []()
+- [writing](https://www.classcentral.com/course/how-to-write-a-scientific-paper-5816)
 
-
-Month 4
-### Week 1
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-### Week 2
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-### Week 3
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-### Week 4
-Professional Sales: Employees in professional sales are involved in the transfer
-of goods and services in the economy, both to businesses and to individual
-consumers.
-
-#### Courses
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
-
+#### Week 3 to 4
+Structured Analytic Technique
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

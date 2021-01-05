@@ -25,5 +25,5 @@ consumers.
 * Public Relations Specialist
 * Sales Manager
 
-For More information
-Please contact 	Brigitte Coles <brigittec@driftnet.net>
+For More information:
+- Please contact [Brigitte Coles](brigittec@driftnet.net)

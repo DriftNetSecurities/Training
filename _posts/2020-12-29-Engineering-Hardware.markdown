@@ -10,6 +10,10 @@ tags:   [Engineering | Hardware]
   - Mechanical Engineering
   - Systems Engineering
 
+  For More information:
+  - Please contact [Brigitte Coles](brigittec@driftnet.net)
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

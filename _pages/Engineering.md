@@ -38,5 +38,5 @@ Candidates can work in a team or individually they must present their functional
 #### Volunteer Support
 Engineers and Product Members are welcome to support in various ways: Just coming together for the showcase and/or Mentoring throughout the project development.
 
-For More information
-Please contact 	Brigitte Coles <brigittec@driftnet.net>
+For More information:
+- Please contact [Brigitte Coles](brigittec@driftnet.net)
