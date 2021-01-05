@@ -9,7 +9,6 @@ tags:   [Leadership]
 #### Courses
 * [Managers Toolkit](https://www.coursera.org/learn/people-management)
 
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
