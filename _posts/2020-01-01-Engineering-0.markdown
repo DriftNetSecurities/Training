@@ -14,7 +14,7 @@ tags:   [Engineering]
 - Pathway ["Junior Programmer"](https://learn.unity.com/pathway/junior-programmer/?tab=pathway_map)
 
 ## Blender For Mac OS
-<a href="[![IMAGE_ALT](https://img.youtube.com/vi/ZbvTS1pmN0s/0.jpg)](https://www.youtube.com/watch?v=ZbvTS1pmN0s)"target="_blank">Go</a>
+[![IMAGE_ALT](https://img.youtube.com/vi/ZbvTS1pmN0s/1.jpg)](https://www.youtube.com/watch?v=ZbvTS1pmN0s)
 - Download [Link](https://www.blender.org/)
 - Quick Tutorials for Blender ["Get Started"](https://cloud.blender.org/training/)
 - [Blender Fundamentals 2.8](https://youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
