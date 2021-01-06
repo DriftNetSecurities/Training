@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Scientist M46"
-date:   2021-01-01 18:05:55 +0300
+date:   2021-01-01 18:05:46 +0300
 image:  19.jpg
 tags:   [Engineering | Science]
 ---
