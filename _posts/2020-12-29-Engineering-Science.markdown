@@ -6,10 +6,13 @@ image:  19.jpg
 tags:   [Engineering | Science]
 ---
 ### Science & Engineering Pathways:
+All Science Engineers will need to do AWS Fundamental 6hr course.
   - Data Analyst (1-12 Months)
+    - [AWS Data Analytics](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_DataAnalytics.pdf)
   - Data Scientist (13-24 Months)  
   - Artificial Intelligence (25-36 Months)
   - Machine Learning (37-48 Months)
+    - [AWS Machine Learning](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_ML_Developer.pdf)
 
   For More information:
   - Please contact [Brigitte Coles](brigittec@driftnet.net)
