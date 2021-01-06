@@ -6,10 +6,10 @@ image:  19.jpg
 tags:   [Engineering | Science]
 ---
 ### Science & Engineering Pathways:
-  - Data Analyst - Big Data
-  - Data Scientist
-  - Artificial Intelligence
-  - Machine Learning
+  - Data Analyst (1-12 Months)
+  - Data Scientist (13-24 Months)  
+  - Artificial Intelligence (25-36 Months)
+  - Machine Learning (37-48 Months)
 
   For More information:
   - Please contact [Brigitte Coles](brigittec@driftnet.net)
