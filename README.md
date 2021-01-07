@@ -58,10 +58,10 @@ To create a new post, you can create a new markdown file inside the \_posts dire
 
       ---
       layout: post
-      title: Premiere on Broadway
-      date: 2018-08-23 16:04:00 +0300
+      title: Engineering
+      date: 2020-01-01 16:04:00 +0300
       image: 03.jpg
-      tags: [Rest]
+      tags: [Engineering]
       ---
 
 
