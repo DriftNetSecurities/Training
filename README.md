@@ -7,7 +7,6 @@ DSN Training is an easy and simple theme for Jekyll. Dark colors, give it a spec
 Table of Contents
 -----------------
 *   [Features](#features)
-*   [Demo](#demo)
 *   [Deployment](#deployment)
 *   [Posts](#posts)
 *   [Disqus Comments](#DisqusComments)
