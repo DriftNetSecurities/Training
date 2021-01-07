@@ -1,6 +1,6 @@
-DSN Training- Simple site
+DNS Training Site
 ======
-DSN Training is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog.
+DNS Training is an easy and simple theme Jekyll. Blog format.
 
 * * *
 
