@@ -6,11 +6,10 @@ image:  19.jpg
 tags:   [Engineering | Science]
 ---
 ### Science & Engineering Pathways:
-All Science Engineers will need to do AWS Fundamental 6hr course.
+All Science Engineers will need to do [AWS Cloud Practioner Essentials](https://www.aws.training/Details/eLearning?id=60697) course.
 
-<div class="vendor">
-  <iframe width="425" height="349" src="http://www.youtube.com/embed/FKWwdQu6_ok" frameborder="0" allowfullscreen></iframe>
-</div>
+What is Data Science?
+[![IMAGE_ALT](https://img.youtube.com/vi/xC-c7E5PK0Y/1.jpg)](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
 
   - Data Analyst (1-12 Months)
     - [AWS Data Analytics](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_DataAnalytics.pdf)
@@ -20,7 +19,7 @@ All Science Engineers will need to do AWS Fundamental 6hr course.
     - [AWS Machine Learning](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_ML_Developer.pdf)
 
   For More information:
-  - Please contact [Brigitte Coles](brigittec@driftnet.net)
+  - Please contact [Pat G](Patg@driftnet.net)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

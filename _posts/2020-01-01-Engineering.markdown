@@ -28,7 +28,7 @@ Engineering Pathway is a hard but rewarding pathway here at Drift Net Securities
   - Mechanical Engineering
   - Systems Engineering   
 * Science & Engineering
-  - Data Analyst - Big Data
+  - Data Analyst
   - Data Scientist
   - Artificial Intelligence
   - Machine Learning

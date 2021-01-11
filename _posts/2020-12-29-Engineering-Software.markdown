@@ -6,21 +6,25 @@ image:  18.jpg
 tags:   [Engineering | Software]
 ---
 ### Software Engineering Pathways
-All Software Engineers will need to do AWS Fundamental 6hr course.
+All Software Engineers will need to do [AWS Cloud Practioner Essentials](https://www.aws.training/Details/eLearning?id=60697) course.
 
 #### Full Stack Engineer
+The Pathway for Full Stack Engineer is divided into 3 parts. For more information on how to get started please contact [Gabe](gabeg@driftnet.net)
 - Backend Developer (6 Months)
 - [AWS Database](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_Databases.pdf) (2 Months)
 - Frontend Developer (4 Months)
 #### iOS Developer
-- iOS Developer Junior (6 Months)
-- iOS Developer Mid (6 Months)
+The Pathway for iOS Developer is divided into 8 months. For more information on how to get started please contact [Mikhail](Mikhaill@driftnet.net)
+- iOS Developer Junior (8 Months)
+- iOS Developer Mid (8 Months)
 #### Mix Developer
-- - [Game Tech](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_GameTech.pdf)
+The Pathway for Mix Media Developer is following the Links below. For more information on how to get started please contact [Gabe](gabeg@driftnet.net)
+- [Game Tech](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_GameTech.pdf)
 - Blender Engineer (6 Months)
 - Unity Engineer (12 Months)
 - Mix Reality (6 Months)
 #### AWS Engineer
+The Pathway for AWS Engineer is following the AWS Links below. For more information on how to get started please contact [Pat](patg@driftnet.net)
 - [Architect](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_Architect.pdf)
 - [Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_CloudPractitioner.pdf)
 - [Developer](https://d1.awsstatic.com/training-and-certification/Learning_Paths/LearningPath_Developer.pdf)
