@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unity M0"
+title:  "Mix Reality M0"
 date:   2021-01-01 18:05:00 +0300
 image:  19.jpg
 tags:   [Engineering | Software]
@@ -8,9 +8,8 @@ tags:   [Engineering | Software]
 
 ## Math for Success
 
-### Software Engineering Unity Math Skills Required
+### Software Engineering Mix Reality Math Skills Required
 
--   [Game Theory](https://kanger.dev/run/game-theory-stanford/)
 -   [Introduction to Discrete Mathematics for Computer Science](https://kanger.dev/run/introduction-to-discrete-maths-for-cs-specialization-hse/)
 -   [Introduction to Mathematical Thinking]\(- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking?ranMID=40328&ranEAID=ZbA30aiKocg&ranSiteID=ZbA30aiKocg-SXSyEe1an2vx87QDrdtE3g&siteID=ZbA30aiKocg-SXSyEe1an2vx87QDrdtE3g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ZbA30aiKocg#syllabus)
 -   [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus?ranMID=40328&ranEAID=ZbA30aiKocg&ranSiteID=ZbA30aiKocg-Usw.1YnIcufBt0Vyhzapmw&siteID=ZbA30aiKocg-Usw.1YnIcufBt0Vyhzapmw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ZbA30aiKocg/)
