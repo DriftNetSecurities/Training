@@ -8,75 +8,36 @@ tags:   [Intelligence | Officer]
 ## Pathways in Intelligence Officer
 ### Week 1
 #### Courses
-* [Intelligence Analyst - M1W1 Video Playlist](https://www.youtube.com/watch?v=AW4ZOnd0Kyw&list=PLeDh38XMopDYea0U87mkjEgkoOyHoKzFP)
-* [Practical](https://www.classcentral.com/course/psychfirstaid-2900)
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+* [Network Analysis ](https://www.coursera.org/learn/social-network-analysis)
 
 #### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+* Conduct a network analysis
 
 
 #### Week 2
 #### Courses
-* [Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
-* [Arguments](https://www.coursera.org/learn/understanding-arguments)
-* [Inductive Reasoning](https://www.coursera.org/learn/inductive-reasoning)
-* [Deductive Reasoning](https://www.coursera.org/learn/deductive-reasoning)
-* [Fallicies](https://www.coursera.org/learn/logical-fallacies)
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+* [Counter-Terrorism](https://www.coursera.org/learn/countering-terror-violent-extremism)
+* [Terrorism](https://www.coursera.org/learn/terrorism)
 
 #### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+* Analyze a terrorist attack
 
 ### Week 3
 #### Courses
-* [Intelligence Analyst - M1W1 Video Playlist](https://www.youtube.com/watch?v=AW4ZOnd0Kyw&list=PLeDh38XMopDYea0U87mkjEgkoOyHoKzFP)
-* [Practical](https://www.classcentral.com/course/psychfirstaid-2900)
-
-#### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-#### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+* [Forensic Science](https://www.coursera.org/learn/forensic-science)
 
 ### Week 4
 #### Courses
-* [Intelligence Analyst - M1W1 Video Playlist](https://www.youtube.com/watch?v=AW4ZOnd0Kyw&list=PLeDh38XMopDYea0U87mkjEgkoOyHoKzFP)
-* [Practical](https://www.classcentral.com/course/psychfirstaid-2900)
+* [Guns](https://www.coursera.org/learn/gun-violence)
+* [Chapter 1](https://fas.org/irp/doddir/army/tc3-22-9.pdf)
+* [Pistol](https://fas.org/irp/doddir/army/tc3-23-35.pdf)
+* [Target Analyze Charts](https://www.gungoddess.com/blogs/troubleshooting/target-analysis-charts)
 
 #### Readings
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+1. Precision Rifle Marksmanship: The Fundamentals - A Marine Sniper's Guide to Long Range Shooting: A Marine Sniper's Guide to Long Range Shooting
 
 #### Projects
-* 3 months in Job
-* Managers endorsement to begin the pathway
-* 8 months Marketing Immersion Program
+* Go to gun range
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
