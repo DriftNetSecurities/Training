@@ -5,6 +5,10 @@ date:   2021-01-01 18:05:55 +0300
 image:  11.jpg
 tags:   [Intelligence | Analyst]
 ---
+#### Week 1 to 4
+#### Readings
+- Effective Intelligence Briefings by David Cariens
+
 #### Week 1
 ##### Intelligence Cycle
 - [Intelligence Cycle](https://en.wikipedia.org/wiki/Intelligence_cycle)
