@@ -8,7 +8,7 @@ tags:   [Engineering | Software]
 
 ## Math for Success
 
-### Software Engineering Mix Reality Math Skills Required
+### Software Engineering iOS Math Skills Required
 
 -   [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking?ranMID=40328&ranEAID=ZbA30aiKocg&ranSiteID=ZbA30aiKocg-SXSyEe1an2vx87QDrdtE3g&siteID=ZbA30aiKocg-SXSyEe1an2vx87QDrdtE3g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ZbA30aiKocg#syllabus)
 -   [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus?ranMID=40328&ranEAID=ZbA30aiKocg&ranSiteID=ZbA30aiKocg-Usw.1YnIcufBt0Vyhzapmw&siteID=ZbA30aiKocg-Usw.1YnIcufBt0Vyhzapmw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ZbA30aiKocg/)
